@@ -1,9 +1,8 @@
 /* This file is for your main application css. */
-@import "./phoenix.css";
 @import "../node_modules/nprogress/nprogress.css";
 
 /* LiveView specific classes for your customizations */
-.phx-no-feedback.invalid-feedback,
+/* .phx-no-feedback.invalid-feedback,
 .phx-no-feedback .invalid-feedback {
   display: none;
 }
@@ -53,11 +52,10 @@
   color: black;
   text-decoration: none;
   cursor: pointer;
-}
-
+} */
 
 /* Alerts and form errors */
-.alert {
+/* .alert {
   padding: 15px;
   margin-bottom: 20px;
   border: 1px solid transparent;
@@ -89,3 +87,4 @@
   display: block;
   margin: -1rem 0 2rem;
 }
+ */
