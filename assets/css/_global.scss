@@ -46,7 +46,7 @@ header#main {
     align-items: center;
     text-decoration: none;
     color: $detail-color-2;
-    transition: color 0.4;
+    transition: color 0.4s;
 
     &:hover {
       color: darken($detail-color-2, 20);
